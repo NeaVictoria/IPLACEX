@@ -1,3 +1,4 @@
+# Escriba un programa donde solicite al usuario su nombre y su edad y luego imprima un mensaje utilizando estos datos.
 # Solicitar al usuario su nombre
 nombre = input("Por favor, ingresa tu nombre: ")
 

@@ -1,0 +1,36 @@
+# ¿Qué es la programación?
+La programación (también conocida como codificación) es el proceso de escribir instrucciones en un dispositivo, como un PC o un dispositivo móvil.
+Estas instrucciones se escriben mediante un lenguaje de programación, que el dispositivo interpreta después. Se puede hacer referencia a estas series de instrucciones con varios términos. Algunos términos populares son programa, programa informático, aplicación (app) y ejecutable.
+
+# Programa
+Un programa puede ser cualquier cosa que se escriba con código. Algunos ejemplos de programas que se ejecutan en distintos dispositivos son:
+*	Websites
+*	Juegos
+*	Aplicaciones de teléfono
+
+Aunque es posible crear un programa sin escribir código, el dispositivo interpreta la lógica subyacente, que es muy probable que se haya escrito con código. Un programa en ejecución o que ejecuta código está llevando a cabo instrucciones. El dispositivo que usa actualmente para leer este módulo ejecuta un programa que lo imprime en la pantalla.
+
+
+# Lenguajes de programación
+El propósito principal de los lenguajes de programación es que los desarrolladores compilen instrucciones para enviar a un dispositivo.
+Los lenguajes de programación son un vehículo para la comunicación entre humanos y equipos. Los dispositivos solo pueden reconocer los caracteres binarios 1 y 0. La mayoría de los desarrolladores consideran que usar solo caracteres binarios no es una manera eficaz de comunicarse.
+Los lenguajes de programación se presentan en diferentes formatos y pueden servir para distintos propósitos. Por ejemplo, JavaScript se usa principalmente para aplicaciones web, y Bash se usa principalmente para sistemas operativos.
+
+
+
+
+
+
+
+
+Elementos de un programa
+Saber cómo se ejecuta un programa y en qué datos se basa es un primer paso importante para saber cómo crear sus propios programas.
+Una única indicación de un programa se denomina instrucción. Normalmente, una instrucción tiene un espaciado entre caracteres o un interlineado que marcan dónde termina o finaliza la instrucción. La forma en que un programa finaliza varía según cada lenguaje.
+
+Los programas están basados en datos
+La mayoría de los programas se basan en el uso de los datos obtenidos de un usuario u otro origen, donde las instrucciones pueden basarse en estos datos para llevar a cabo instrucciones. Los datos pueden cambiar el comportamiento de un programa, por lo que los lenguajes de programación ofrecen una forma de almacenar temporalmente los datos para su uso posterior.
+Los datos se almacenan en una instrucción denominada variable. Las variables son instrucciones que indican a un dispositivo que guarde los datos en su memoria. Las variables de los programas son similares a las de álgebra, donde tienen un nombre único y su valor puede cambiar con el tiempo.
+
+Control de flujo
+Es posible que un dispositivo no ejecute algunas instrucciones. Esto suele ocurrir por diseño, según lo que escriba el desarrollador, o por accidente, a raíz de un error inesperado.
+Controlar el flujo de una aplicación hace que sea más sólida y fácil de mantener. Los cambios en el control suelen producirse cuando se cumplen determinadas condiciones. 
