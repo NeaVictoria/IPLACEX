@@ -1,0 +1,41 @@
+# EJERCICIO 1
+Genere un programa que permita imprimir el mensaje “Entendí muy bien el ejemplo”.
+
+# EJERCICIO 2
+Escriba un programa donde solicite al usuario ingresar su nombre y una nota y luego imprima un mensaje que indique la nota que ingresó dicha persona incluyendo su nombre. Por ejemplo, si el usuario ingresa el nombre Juanito Arcoíris y la nota 6.8 deberá imprimir el mensaje “Juanito Arcoíris obtuvo un 6.8”.
+
+# EJERCICIO 3
+Escriba un programa que solicite al usuario ingresar dos números decimales, a y b, y luego, utilizando dichos números imprima: La suma, la resta, la multiplicación, la división y el módulo de ambos. Asuma que el primer operando será a y el segundo operando será b.
+
+
+# EJERCICIO 4
+Escriba un programa que solicite al usuario ingresar dos números enteros, a y b, y luego imprima un mensaje que diga “Iguales” si ambos son iguales o “Diferentes” si ambos son diferentes.
+
+# EJERCICIO 5
+Escriba un programa que solicite al usuario ingresar el nombre y la edad de dos personas y luego imprima un mensaje indicando el nombre del mayor y cuántos años de diferencia tienen. Por ejemplo, si se ingresan los nombres Juan y Diego y en las edades se ingresan 33 y 20 respectivamente, debería enviar un mensaje que diga “Juan es 13 años mayor que Diego”. 
+
+
+# EJERCICIO 6
+Escriba un programa que permita ingresar la base y la altura para dos triángulos diferentes, Triángulo A y Triángulo B, y en virtud de ello imprima cuál es el que posee la mayor área. Si ambos poseen igual área lo deberá indicar. 
+
+# EJERCICIO 7
+Escriba un programa en que el usuario ingrese el valor que posee el euro en pesos chilenos y el valor que posee el dólar en pesos chilenos (asuma que siempre serán valores diferentes). Luego, solicite que ingrese un monto en pesos chilenos e imprima un mensaje indicando la equivalencia en euros y en dólares y recomiende cuál de dichas monedas comprar considerando que se desea tener la mayor cantidad posible de una sola de las divisas extranjeras. Por ejemplo, si el usuario ingresa que el precio del dólar es 700, que el precio del euro es 800 y luego ingresa que desea transformar 56000 pesos chilenos, debería imprimir los siguientes mensajes:
+	“56000 pesos chilenos son 80 dólares”
+	“56000 pesos chilenos son 70 euros”
+	“Le conviene más comprar dólares ya que obtendrá 80 y eso es más que 70”
+
+# EJERCICIO 8
+Genere un programa que reciba una nota y luego imprima el mensaje “Es válida” si la nota está en el intervalo de 1.0 a 7.0 (ambos inclusive) o el mensaje “No es una nota válida” si la nota ingresada no está en el intervalo señalado. Luego, si la nota es válida, deberá imprimir “Es un azul” si la nota es mayor o igual a 4.0 (y menor o igual a 7.0) o “Es un rojo” si la nota es menor a 4.0 (y mayor o igual a 1.0)
+
+# EJERCICIO 9
+Genere un programa que pida al usuario ingresar un número e imprima “Es uno” si se ingresa un uno, “es dos” si se ingresa un dos, “es tres o cuatro” si se ingresa un tres o un cuatro, o “no es 1, 2, 3 ni 4” si se ingresa otro número. Recuerde que solo debe imprimir un mensaje.
+
+# EJERCICIO 10
+Juan Pérez es candidato a Diputado de la República de “Walalalandia” en una Provincia compuesta de tres comunas. Dadas las nuevas reglas electorales, Juan podría ganar si se cumple uno o más de los siguientes casos:
+	Si en una de las comunas, cualquiera de las tres, obtiene el 80% o más de la votación total de la comuna 
+	Si entre dos comunas obtiene el 70% o más de los votos del total de la provincia o,
+	Si entre las tres comunas obtiene el 40% o más del total de los votos de la provincia.
+En cualquier otro caso, Juan no ganará la elección. 
+Note que el total de votos en la provincia es la suma de los votos de cada comuna.
+
+Considerando lo anterior, genere un programa que lea la cantidad total de votos (número) emitidos en cada comuna y la cantidad (número) de votos que Juan obtuvo en cada comuna e imprima el mensaje “Juan es nuestro nuevo Diputado” si es que Juan logró ganar las elecciones o “Juan deberá intentar en otra oportunidad” si es que Juan no logra ganar las elecciones. Puede asumir que la cantidad de votos de cada comuna siempre será mayor o igual que la cantidad de votos que Juan obtuvo en la respectiva comuna. 
